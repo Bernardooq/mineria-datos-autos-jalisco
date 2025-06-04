@@ -37,5 +37,6 @@ Using a dataset that includes yearly vehicle counts from 1980 to 2020, we apply 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/vehicle-growth-jalisco.git
+   git clone https://github.com/Bernardooq/mineria-datos-autos-jalisco.git
    cd vehicle-growth-jalisco
+   ```
